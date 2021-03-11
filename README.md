@@ -34,10 +34,15 @@ Nice to meet you
 ```
 
 Hello
-> My name is Ohsebin
+> My name is Ohsebin  
 > Nice to meet you too.
 
 First | Second Header
 ------|--------------
 Content cell 1 | Conetent cell 2
 Content column 1 | Conetent column 2
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+sentence middle in `Code` say emphasize 
