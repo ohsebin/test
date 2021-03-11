@@ -24,8 +24,6 @@ Hello!
 My name is Ohsebin  
 Nice to meet you
 
-첫번째 방법
-![20170102_212325](/images/20170102_212325.jpg)
 
 두번째 방법
 <a href="#"><img src="https://github.com/ohsebin/test/20170102_212556.jpg" width="400px" alt="sample image"></a>
