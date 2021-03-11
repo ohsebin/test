@@ -47,8 +47,8 @@ Content column 1 | Conetent column 2
 
 sentence middle in `Code` say emphasize 
 
-\*literal asterisks\*
-*literal asterisks*
-__\*\*Text\*\*__
-_\_Tom\__
+\*literal asterisks\*  
+*literal asterisks*  
+__\*\*Text\*\*__  
+_\_Tom\__  
 
