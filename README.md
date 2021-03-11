@@ -46,3 +46,9 @@ Content column 1 | Conetent column 2
 - [ ] this is an incomplete item
 
 sentence middle in `Code` say emphasize 
+
+\*literal asterisks\*
+*literal asterisks*
+__\*\*Text\*\*__
+_\_Tom\__
+
