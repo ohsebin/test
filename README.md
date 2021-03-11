@@ -32,6 +32,5 @@ Nice to meet you
 
 [Github](http://github.com "깃허브")
 
-...
-cv2.imwrite
-...
+'''cv2.imwrite
+'''
